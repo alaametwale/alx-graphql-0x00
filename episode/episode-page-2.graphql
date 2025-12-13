@@ -1,0 +1,12 @@
+
+character/characters-page-1-output.json
+query {
+  characters(page: 2) {
+    results {
+      id
+      name
+      status
+      image
+    }
+  }
+}
