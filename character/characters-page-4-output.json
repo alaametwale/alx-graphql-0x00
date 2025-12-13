@@ -1,0 +1,14 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Campaign Manager Morty",
+          "status": "Unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        }
+      ]
+    }
+  }
+}

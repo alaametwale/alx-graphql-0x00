@@ -1,0 +1,14 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Aqua Morty",
+          "status": "Unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        }
+      ]
+    }
+  }
+}
